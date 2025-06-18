@@ -1,6 +1,6 @@
-#CSC1004: Computational Laboratory Using Java (Spring 2025)
+# CSC1004: Computational Laboratory Using Java (Spring 2025)
 
-##Course Website
+## Course Website
 https://guiliang.github.io/courses/cuhk-csc-1004/csc_1004.html
 
-##Full Marks
+## Full Marks
