@@ -3,5 +3,5 @@
 ## Course Website
 https://guiliang.github.io/courses/cuhk-csc-1004/csc_1004.html
 
-## Grade: A
+## Grade A
 Full marks on all projects
